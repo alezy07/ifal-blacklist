@@ -1,0 +1,2 @@
+# ifal-blacklist
+URL Blacklist
